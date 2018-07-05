@@ -1,0 +1,2 @@
+# StopWords
+Albanian Stop Words
